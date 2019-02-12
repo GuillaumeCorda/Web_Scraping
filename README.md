@@ -4,8 +4,8 @@ Some scrapers developed as part of the Data Systems and Information Retrieval co
 
 ## Script
 
-The file **scraper.py** is a snippet of the code we use to scrap information from freight companies websites.
+The file **scraper_freight_companies.py** is a snippet of the code we use to scrap information from freight companies websites.
 
 ## Notebooks
 
-The notebook **scraper.ipynb** was used to retrieve data from apartments for rent in the Netherlands.
+The notebook **scraper_apartments.ipynb** was used to retrieve data from apartments for rent in the Netherlands.
